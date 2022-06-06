@@ -58,9 +58,6 @@ li.dropdown {
 .dropdown:hover .dropdown-content {
     display: block;
 }
-div a {
-    height: 12px;
-}
 
 #avatar {
     width: 500px;
